@@ -1,0 +1,33 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    position: relative;
+    background-image: url('images/coffee.jpg');
+}
+.register{
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+#para{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+}
+.form-container{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    width: 800px;
+}
+input[type=text]{
+    width:240px;
+    padding: 10px;
+
+}
